@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm [Mohan](https://www.linkedin.com/in/s-mohan-gautam-62a5b417b) !👋
+<p>Bennett University CSE '23</p>
 
 <!--
 **Sherlock-B221/Sherlock-B221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
